@@ -1,0 +1,25 @@
+#While loop 1
+counter = 0
+while counter <12:
+    print(counter)
+    counter = counter + 1
+#For loop 1
+for i in range(12):
+    print(i)
+#For loop 2
+for i in range (5):
+    print("Hello WOrld", i)
+#While loop 2
+counter = 0
+while counter <5:
+    print("Hello WOrld", counter)
+    counter = counter + 1
+#For loop 3
+mylist = [10,100,1000]
+for jj in mylist:
+    print("jj is equal to:", jj)
+#While loop 3
+counter = 10
+while counter <=1000:
+    print("jj is equal to:", counter)
+    counter = counter * 10
